@@ -1,0 +1,22 @@
+{
+  "name": "exaland-darktheme",
+  "displayName": "Exaland DarkTheme",
+  "description": "Dark theme Color for VsCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "exaland",
+  "contributes": {
+    "themes": [
+      {
+        "label": "ExalandDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ExalandDark-color-theme.json"
+      }
+    ]
+  }
+}
