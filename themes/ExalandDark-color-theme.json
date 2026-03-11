@@ -13,6 +13,7 @@
       "foreground": "#66ffb4"
     }
   },
+  "icon": "resources/icon/icon-512.jpg",
   "colors": {
     "foreground": "#cccccc",
     "focusBorder": "#007fd4",

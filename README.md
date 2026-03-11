@@ -1,16 +1,38 @@
-# exaland-darktheme README
+# Exaland DarkTheme
 
-## Working with Markdown
+Exaland DarkTheme is a dark theme extension for Visual Studio Code, with contrast applied to code, panels, and tabs.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Open the VS Code Marketplace.
 
-## For more information
+2. Search for **Exaland DarkTheme**.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+3. Install the extension.
 
-**Enjoy!**
+Direct link:
+https://marketplace.visualstudio.com/items?itemName=exaland.exaland-darktheme
+
+## Activating the theme
+
+1. Open the Command Palette: `Cmd+Shift+P` on macOS.
+
+2. Launch `Preferences: Color Theme`.
+
+3. Select **ExalandDark**.
+
+## Extension Content
+
+- 1 color theme: **ExalandDark**
+
+- Marketplace Category: **Themes**
+
+- VS Code Compatible: `^1.109.0`
+
+## Changelog
+
+Changes are described in [CHANGELOG.md](./CHANGELOG.md).
+
+## License
+
+This project is distributed under the [LICENSE](./LICENSE).
