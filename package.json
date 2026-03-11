@@ -2,7 +2,7 @@
   "name": "exaland-darktheme",
   "displayName": "Exaland DarkTheme",
   "description": "Dark theme Color for VsCode",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.109.0"
   },
@@ -12,6 +12,13 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark theme",
+    "color theme",
+    "icon theme",
+    "exaland",
+    "dark"
   ],
   "icon": "resources/icon/icon-512.jpg",
  "iconDefinitions": {
